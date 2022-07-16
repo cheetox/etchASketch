@@ -1,5 +1,9 @@
 body{
     background: ivory;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .sketch{
@@ -14,4 +18,7 @@ body{
     flex: 1 1 auto;
     background: white;
     border: solid 2px;
+}
+.container{
+    display: flex;
 }
