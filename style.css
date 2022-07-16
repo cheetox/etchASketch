@@ -1,0 +1,17 @@
+body{
+    background: ivory;
+}
+
+.sketch{
+    display: flex;
+    flex-wrap: wrap;
+    width: 550px;
+    height: 520px;
+}
+.grid{
+    height: 30px;
+    width: 30px;
+    flex: 1 1 auto;
+    background: white;
+    border: solid 2px;
+}
